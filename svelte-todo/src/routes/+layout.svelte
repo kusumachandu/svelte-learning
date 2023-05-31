@@ -1,18 +1,14 @@
 <script>
 	import Header from './Header.svelte';
-	import './styles.css';
+	import './app.css';
 </script>
 
-<div class="app">
+<div class="app border border-yellow-400 py-20">
 	<Header />
 
-	<main>
+	<main class="py-20">
 		<slot />
 	</main>
-
-	<footer>
-
-	</footer>
 </div>
 
 <style>
