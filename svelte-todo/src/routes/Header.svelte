@@ -5,7 +5,7 @@
 </script>
 
 <header>
-	<h1>
+	<h1 class='font-bold'>
 		TO-DO's
 	</h1>
 </header>
