@@ -1,5 +1,5 @@
 {
-	"name": "svelte-cal",
+	"name": "svelte-todo",
 	"version": "0.0.1",
 	"scripts": {
 		"dev": "vite dev",
